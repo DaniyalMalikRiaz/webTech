@@ -1,0 +1,4 @@
+exports.GiveDate =() =>{
+    
+    return Date();
+}
